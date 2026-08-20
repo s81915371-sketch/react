@@ -1,13 +1,14 @@
-import { WiAlien } from "react-icons/wi";
-import { ImBug } from "react-icons/im";
-
 
 function App() {
+  const mushuk = {
+    name: "Mushuk",
+    age: "6",
+  }
   return (
-  <div>
-<WiAlien />
-<ImBug />
-  </div>
+  <>
+    <h1 className="qoramushuk">{mushuk.name}</h1>
+    <p className="oltiyosh">{mushuk.age}</p>
+  </>
      )
      
 }

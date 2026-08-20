@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(63, 63, 109);
+}
+.qoramushuk {
+    display: flex;
+    align-items: center;
+    color: rgb(44, 95, 95);
+  
+}
+.oltiyosh {
+    color: rgb(44, 95, 95);
+}
